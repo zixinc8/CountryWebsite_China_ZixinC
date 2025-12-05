@@ -16,28 +16,37 @@
 }
 
 .zhiai{
-    left: 50%;
-    bottom: 20px;
-    outline-style: solid;
-    outline-width: 3px;
+    box-shadow: 5px 5px 10px rgb(104, 98, 98); 
 }
 
 nav{
+    height: 60px;
     width: 469px;
     background-color: rgb(148, 0, 0);
     outline-style: solid;
-    outline-width: 5px;
+    outline-width: 3px;
     outline-color: rgb(148, 0, 0);  
     text-align: center;
     display: inline-block;
 }
 
 a{
-    color:rgb(0, 0, 0);
+    font-size: smaller;
+    color: black;
     text-shadow:
     1px 1px 0 #2c0000,
     2px 2px 0 #420000,
     3px 3px 0 #6d0101,
     4px 4px 0 #810000,
+    5px 5px 0 rgb(148, 0, 0); 
+}
+
+a:hover{
+    color: rgb(255, 196, 0);
+    text-shadow:
+    1px 1px 0 #917600,
+    2px 2px 0 #a17b00,
+    3px 3px 0 #6d3501,
+    4px 4px 0 #7c3200,
     5px 5px 0 rgb(148, 0, 0); 
 }
