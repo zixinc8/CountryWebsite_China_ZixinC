@@ -42,10 +42,29 @@
     position: absolute;
     text-align: center;
     bottom: -127%;
-    left: 16%; 
-    color:#2c0000
-    text-shadow: rgb(255, 255, 255) 1px 1px 0;
-    text-shadow: rgb(255, 255, 255) 2px 2px 0;    
+    left: 17%; 
+    color:#ffffff;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) 2px 2px 0;
+}
+
+.musuli{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.linqian{
+    font-size: 50;
+    text-shadow: rgb(114, 0, 0) 1px 1px 0, rgb(114, 0, 0) 2px 2px 0, rgb(114, 0, 0) 3px 3px 0;
+}
+
+.xiaoshuo{
+    font-size: 70;
+    text-align: center;
+    color:rgb(131, 0, 0);
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) 2px 2px 0, rgb(0, 0, 0) 3px 3px 0;
+
+
 }
 
 nav{
