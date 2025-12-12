@@ -48,8 +48,8 @@
 }
 
 .musuli{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     object-fit: cover;
 }
 
@@ -65,6 +65,12 @@
     text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) 2px 2px 0, rgb(0, 0, 0) 3px 3px 0;
 
 
+}
+
+.nanpaisanshu{
+    text-align: center;
+    width: 450px;
+    display: inline-block;
 }
 
 nav{
