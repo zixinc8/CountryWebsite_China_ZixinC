@@ -73,6 +73,20 @@
     display: inline-block;
 }
 
+.manhua{
+    width: 1890px; 
+    height: 950px; 
+    object-position: 25% 25%; 
+}
+
+.donghua{
+    width: 1890px; 
+    height: 950px;
+    object-position: 25% 25%; 
+    opacity: 0.5;
+    transform: translate(0, -950px);
+}
+
 nav{
     height: 60px;
     width: 469px;
